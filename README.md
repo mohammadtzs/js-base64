@@ -2,7 +2,7 @@
 
 # base64.js
 
-Yet another [Base64] transcoder.
+Yet another [Base64] transcoder
 
 [Base64]: http://en.wikipedia.org/wiki/Base64
 
